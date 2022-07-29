@@ -20,3 +20,19 @@ small {
   padding: 15px;
   border-radius: 5%;
 }
+
+.companies-section {
+  visibility: visible;
+}
+
+@media only screen and (max-width: 576px) {
+  .companies-section {
+    visibility: hidden;
+  }
+}
+
+@media only screen and (max-width: 766px) and (min-width: 577px) {
+  .companies-section {
+    visibility: hidden;
+  }
+}
