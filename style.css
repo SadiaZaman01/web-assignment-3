@@ -1,0 +1,22 @@
+small {
+  display: block;
+}
+
+.gutt-text {
+  text-align: left;
+}
+
+.gutt-img {
+  width: 100%;
+}
+
+.left-side img {
+  width: 200%;
+}
+
+.register-button a {
+  text-decoration: none;
+  background-color: whitesmoke;
+  padding: 15px;
+  border-radius: 5%;
+}
